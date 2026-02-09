@@ -14,4 +14,4 @@ Your tasks:
 4. Create all test-cases that you can think of for the given website. But not more than 20 test-cases.
 5. Group the test-cases in suitable groups
 6. Create a markdown file for each of the groups in the folder that was created in step 2. Put all testcases of each group inside the corresponding markdown files. 
-Each test-case should consist of a numbered list of steps and expected results. The steps have to be very detailed. Write exactly which buttons to click and which fields to check
+Each test-case should consist of a numbered list of steps and expected results. The steps have to be detailed. Write exactly which buttons to click and which fields to check
